@@ -1,0 +1,16 @@
+.themeFontColor {
+  color: coral;
+  font-family: roboto;
+}
+.logo{
+  height: 150px;
+  cursor: pointer;
+}
+.subtitle{
+  color:white;
+  font-size: x-large;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
